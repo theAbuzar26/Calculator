@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+   
+}
+.alignment{
+    justify-content: center;
+    align-items: center;
+}
+.flex-dir{
+    flex-direction: column;
+}
+.bg{
+    background-color: aquamarine;
+}
